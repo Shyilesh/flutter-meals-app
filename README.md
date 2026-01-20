@@ -1,16 +1,35 @@
-# meals_animation
+# Flutter Meals App
 
-A new Flutter project.
+A Flutter application that allows users to browse meals by category, apply dietary filters, and mark meals as favorites.
 
-## Getting Started
+This project was built to practice multi-screen navigation, state management, and animations in Flutter.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Browse meals by categories
+- View detailed meal information
+- Filter meals (gluten-free, lactose-free, vegetarian, vegan)
+- Mark and view favorite meals
+- Drawer and bottom navigation
+- Simple animations for smoother user experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Language / Framework Used
+- Flutter (Dart)
+
+---
+
+## Key Concepts Learned
+- Navigation between multiple screens
+- Passing data between screens
+- State management using Riverpod
+- Listening to and reacting to state changes across the app
+- Filtering data based on user preferences
+- Basic animations using Flutter widgets
+
+---
+
+## Status
+Completed and working as expected.
