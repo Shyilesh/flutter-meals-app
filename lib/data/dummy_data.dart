@@ -68,7 +68,7 @@ const dummyMeals = [
     affordability: Affordability.affordable,
     complexity: Complexity.simple,
     imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+        'https://t4.ftcdn.net/jpg/16/61/81/87/360_F_1661818760_PVSEec6LGV4bUxal5jbe9JH3TtWBJ0JH.jpg',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
